@@ -1,5 +1,5 @@
 # Student-Attendance-System
-# Attendance Management System
+# face Recognition Attendance Management System
 
 ## Description
 Python-based attendance management system for managing student attendance.
