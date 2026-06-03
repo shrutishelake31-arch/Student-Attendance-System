@@ -1,4 +1,4 @@
-# Student-Attendance-System
+#Student-Attendance-System
 # Face Recognition Attendance System
 
 A Python-based Face Recognition Attendance System developed using OpenCV and face recognition technology.  
